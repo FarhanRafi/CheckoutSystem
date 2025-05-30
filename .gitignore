@@ -1,0 +1,10 @@
+*.vsidx
+/DotnetTasks/.vs
+/CheckoutSystem/.vs
+/CheckoutSystem/bin
+/CheckoutSystem/obj
+CheckoutSystem/appsettings.Development.json
+CheckoutSystem/CheckoutSystem.csproj.user
+/MonthlyReportFeature/obj
+/MonthlyReportFeature/.vs
+/MonthlyReportFeature/bin
